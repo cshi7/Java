@@ -1,0 +1,7 @@
+For letter L : 1
+For letter D : 1
+For letter S : 0
+For letter M : 0
+For letter T : 0
+For letter Q : 1
+For letter E : 1
